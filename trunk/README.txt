@@ -3,8 +3,8 @@ Contributors: emreguler
 Donate link: https://eguler.net
 Tags: woocommerce, confetti, cart
 Requires at least: 3.0.1
-Tested up to: 6.1.1
-Stable tag: 1.0.0
+Tested up to: 6.2
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,7 +22,10 @@ You can "start a confetti rain and display a message" according to WooCommerce c
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+* WP 6.2 & WC 7.5 Compability
+
+= 1.0.0 =
 * First Release
 
 == Upgrade Notice ==

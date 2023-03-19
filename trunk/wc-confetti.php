@@ -3,9 +3,9 @@
  * Plugin Name: Confetti for WooCommerce
  * Plugin URI: https://eguler.net/woocommerce-konfeti-yagmuru-eklentisi/
  * Description: You can "start a confetti rain and display a message" according to WooCommerce cart amount with this plugin.
- * Version: 1.0.0
+ * Version: 1.0.1
  * WC requires at least: 2.5
- * WC tested up to: 7.4.1
+ * WC tested up to: 7.5.0
  * Author: Emre Güler
  * Author URI: https://eguler.net
  * License: GPL-2.0+
@@ -24,7 +24,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'WC_CONFETTI_VERSION', '1.0.0' );
+define( 'WC_CONFETTI_VERSION', '1.0.1' );
 
 /**
  * The code that runs during plugin activation.
