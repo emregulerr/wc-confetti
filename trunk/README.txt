@@ -21,6 +21,8 @@ You can "start a confetti rain and display a message" according to WooCommerce c
 3. After installing the plugin click the “Activate” link.
 
 == Changelog ==
+= 1.1.0 =
+* WP 6.4 & WC 8.2.2 Compability
 
 = 1.1.0 =
 * WP 6.4 & WC 8.2.2 Compability
